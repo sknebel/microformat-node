@@ -32,7 +32,7 @@
     "bluebird": "3.4.x",
     "cheerio": "0.22.x",
     "ent": "^2.2.0",
-    "microformat-shiv": "file:../microformat-shiv/"
+    "microformat-shiv": "https://github.com/sknebel/microformat-shiv.git#fix-empty-values"
   },
   "devDependencies": {
     "hapi": "8.4.x",
